@@ -3,35 +3,17 @@
 \usepackage{otf}  % 日本語用フォントサポート
 \usepackage{caption}  % キャプションの整形
 \usepackage{cite}  % 引用スタイルの統一
+\usepackage{comment} 
+\usepackage[longnamesfirst]{natbib}
 
 \begin{document}
 
 % タイトルページ
-\thispagestyle{empty}
-\begin{center}
-修士論文/ 課題研究報告書\\% どちらか一方を消してください．
-\vfill
-〇〇〇〇〇題目〇〇〇〇〇\\
-\vfill
-〇〇著者名〇〇\\
-\vfill
-主指導教員  〇〇 〇〇\\
-\vfill
-北陸先端科学技術大学院大学\\
-先端科学技術研究科\\
-（〇〇〇〇）\\ %取得希望学位
-\vfill
-令和〇〇年〇月\\ % 学位授与年月
-\vfill
-\end{center}
-
-\clearpage
+\input{title}
 \thispagestyle{plain}
 
 % Abstract
-\centerline{Abstract}
-〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇
-\clearpage
+\input{abstract}
 
 % 目次
 \tableofcontents
@@ -46,22 +28,51 @@
 % ページ番号をリセット
 \setcounter{page}{1}
 
-% 第1章
+% 第1章｛序論｝
 \input{chapter/chapter1}
 
-% 第2章
+% 第2章｛先行研究・関連研究｝
 \input{chapter/chapter2}
 
-% 第3章
+% 第3章｛研究方法｝
 \input{chapter/chapter3}
 
-% 第4章
+% 第4章｛実験・事例｝
 \input{chapter/chapter4}
 
-% 第5章
+% 第5章｛結果｝
 \input{chapter/chapter5}
 
+% 第6章｛考察・ディスカッション｝
+\input{chapter/chapter6}
+
+% 第7章｛結論｝
+\input{chapter/chapter7}
+
 % 参考文献
-\input{cite}
+\renewcommand{\bibname}{参考文献}
+\bibliographystyle{jecon}
+\bibliography{Master-paper}
+
+\begin{comment}
+
+Mater-paper.bibへの記載情報例
+(Teece_etal_1997)のように記載したものを
+論文中に\citep{Teece_eaal_1997}のように示すと
+本研究は... Dynamic Capability(Teece, Pisano and Shuen, 1997)に表示できます．
+詳しくは”jecon-example.pdf”を参照ください．
+
+@article{Teece_etal_1997,
+        author = {Teece, David J. and Pisano, Gary and Shuen, Amy},
+        title = {Dynamic capabilities and strategic management},
+        journal = {Strategic Management Journal},
+        volume = {18},
+        number = {7},
+        pages = {509-533},
+        year = {1997},
+        doi = {doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z},
+}
+
+\end{comment}
 
 \end{document}
