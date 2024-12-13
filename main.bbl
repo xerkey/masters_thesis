@@ -1,0 +1,32 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[独立行政法人労働政策研究・研修機構(2020)]{JILPT2020}
+独立行政法人労働政策研究・研修機構.
+\newblock ものづくり産業における技能継承の現状と課題に関する調査.
+\newblock https://www.jil.go.jp/institute/research/2020/194.html, 2020.
+\newblock (最終閲覧日:2024年10月25日).
+
+\bibitem[Onozato(1998)]{Onozato1998}
+M.~Onozato.
+\newblock きさげ作業における技能の分析とそのモデル化.
+\newblock \emph{Dummy Journal}, 37\penalty0 (7):\penalty0 495--498, 1998.
+\newblock \doi{dummydoi}.
+
+\bibitem[屋代裕一 et~al.(2021)屋代裕一, 王ゴウ, and 羽鳥文雄]{Yashiro2021}
+屋代裕一, 王ゴウ, and 羽鳥文雄.
+\newblock プラント施工現場での視線計測技術による熟練者ノウハウ抽出に関する研究.
+\newblock \emph{Dummy Journal}, 77\penalty0 (2):\penalty0 I1--I15, 2021.
+\newblock \doi{dummydoi}.
+
+\bibitem[小川泰右 et~al.(2011)小川泰右, 山崎友義, and 池田満]{Ogawa2011}
+小川泰右, 山崎友義, and 池田満.
+\newblock 医療サービス実践知の共有支援に向けたオントロジーの構築と利用.
+\newblock \emph{Dummy Journal}, 26\penalty0 (3):\penalty0 461--472, 2011.
+\newblock \doi{dummydoi}.
+
+\end{thebibliography}
