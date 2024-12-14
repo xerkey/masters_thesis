@@ -1,32 +1,75 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[独立行政法人労働政策研究・研修機構(2020)]{JILPT2020}
-独立行政法人労働政策研究・研修機構.
+\bibitem[労働政策研究・研修機構(2020)]{JILPT2020}
+独立行政法人 労働政策研究・研修機構.
 \newblock ものづくり産業における技能継承の現状と課題に関する調査.
 \newblock https://www.jil.go.jp/institute/research/2020/194.html, 2020.
 \newblock (最終閲覧日:2024年10月25日).
 
-\bibitem[Onozato(1998)]{Onozato1998}
-M.~Onozato.
-\newblock きさげ作業における技能の分析とそのモデル化.
-\newblock \emph{Dummy Journal}, 37\penalty0 (7):\penalty0 495--498, 1998.
-\newblock \doi{dummydoi}.
+\bibitem[Gavrilova and Andreeva(2012)]{Tatiana2012}
+Tatiana Gavrilova, Tatiana Andreeva.
+\newblock Knowledge elicitation techniques in a knowledge management context.
+\newblock \emph{Journal of Knowledge Management}, 16\penalty0 (4):\penalty0 523--537, 2012.
 
-\bibitem[屋代裕一 et~al.(2021)屋代裕一, 王ゴウ, and 羽鳥文雄]{Yashiro2021}
-屋代裕一, 王ゴウ, and 羽鳥文雄.
-\newblock プラント施工現場での視線計測技術による熟練者ノウハウ抽出に関する研究.
-\newblock \emph{Dummy Journal}, 77\penalty0 (2):\penalty0 I1--I15, 2021.
-\newblock \doi{dummydoi}.
+\bibitem[悟史 et~al.(2017)悟史, 博, 直人, 希恵子, 賢一郎, 徳信, 理一郎, and 拓一]{Nishimura2017}
+西村 悟史, 大谷 博, 畠山 直人ら.
+\newblock 現場主体の知識発現方法の提案.
+\newblock \emph{人工知能学会論文誌}, 32\penalty0 (4):\penalty0 C--G95--1--15, 2017.
 
-\bibitem[小川泰右 et~al.(2011)小川泰右, 山崎友義, and 池田満]{Ogawa2011}
-小川泰右, 山崎友義, and 池田満.
-\newblock 医療サービス実践知の共有支援に向けたオントロジーの構築と利用.
-\newblock \emph{Dummy Journal}, 26\penalty0 (3):\penalty0 461--472, 2011.
-\newblock \doi{dummydoi}.
+\bibitem[康行 et~al.(2022)康行, なみ, 貴志, 貴也, and 拓一]{Yoshida2022}
+吉田 康行, 飯野 なみ, 西野 貴志ら.
+\newblock 高齢者の自立支援差介護における遠隔技術を用いた知識・データ融合の実践と分析.
+\newblock \emph{情報処理学会論文誌}, 63\penalty0 (1):\penalty0 116--128, 2022.
+
+\bibitem[幸輝 et~al.(2022)幸輝, 真衣子, なみ, and 拓一]{Ijuin2022}
+伊集院 幸輝, 小早川 真衣子, 飯野 なみら.
+\newblock 作業手順内の目的を表出し構造化する方法の提案―介護現場での目的指向知識構造化.
+\newblock \emph{情報処理学会論文誌}, 63\penalty0 (1):\penalty0 104--115, 2022.
+
+\bibitem[直志 and 拓一(2022)]{Uchihira2022}
+内平 直志, 西村 拓一.
+\newblock 現場で表出する人間の気づきや潜在知識のデジタル化: Human centricデジタルツインへの提言.
+\newblock http://hdl.handle.net/10119/18532, 2022.
+\newblock (最終閲覧日:2024年10月25日).
+
+\bibitem[Klein(2008)]{Klein2008}
+Gary Klein.
+\newblock Naturalistic decision making.
+\newblock \emph{Human Factors}, 50\penalty0 (3):\penalty0 456--460, 2008.
+
+\bibitem[孝明 et~al.(2024)孝明, 舜, 孝太郎, 卓也, 佑司, 知明, 崇, and 信行]{Tanaka2024}
+田中 孝明, 大坪 舜, 伊藤 孝太郎ら.
+\newblock {LLM}マルチエージェントを用いたアイディエーション応用とアイデア評価手法に関する研究.
+\newblock \emph{人工知能学会全国大会論文集}, JSAI2024\penalty0 (38):\penalty0 4G3GS205, 2024.
+
+\bibitem[尾﨑大晟 et~al.(2024)尾﨑大晟, 中川智皓, 内藤昭一, 直也, 健史, 祥太郎, and 篤彦]{Ozaki2024}
+尾﨑大晟, 中川智皓, 内藤昭一ら.
+\newblock {LLM}による前提生成ステップを用いた反論の攻撃力向上手法.
+\newblock \emph{人工知能学会全国大会論文集}, SAI2024\penalty0 (38):\penalty0 3F1GS1004, 2024.
+
+\bibitem[Welz and Lanquillon(2024)]{Welz2024}
+L.~Welz, C.~Lanquillon.
+\newblock Enhancing large language models through external domain knowledge.
+\newblock \emph{Artificial Intelligence in HCI}, 14736:\penalty0 125--146, 2024.
+
+\bibitem[Lewis et~al.(2020)Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, Küttler, Lewis, tau Yih, Rocktäschel, Riedel, and Kiela]{Lewis2020}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus et al.
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock \emph{Advances in Neural Information Processing Systems}, 33, 2020.
+
+\bibitem[鵜飼孝典(2023)]{Ukai2023}
+鵜飼孝典.
+\newblock {LLM}を利用したイベント中心ナレッジグラフにおけるイベント予測.
+\newblock \emph{人工知能学会第二種研究会資料}, 2023\penalty0 (SWO-061):\penalty0 08--, 2023.
+
+\bibitem[Nishimura et~al.(2008)Nishimura, Kitamura, Sasajima, Williamson, Kinoshita, Hirao, Hattori, and Mizoguchi]{Nishimura2008}
+Satoshi Nishimura, Yoshinobu Kitamura, Munehiko Sasajima et al.
+\newblock Charm knowledge and its application to nursing guidelinesintegration.
+\newblock \emph{Journal of Advanced Computational Intelligence and Intelligent Informatics}, 27\penalty0 (4):\penalty0 697--701, 2008.
 
 \end{thebibliography}
