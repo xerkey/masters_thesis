@@ -1,4 +1,4 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -82,5 +82,15 @@ Wen-Cheng Shen, Fu-Ren Lin.
 鵜飼孝典.
 \newblock {LLM}を利用したイベント中心ナレッジグラフにおけるイベント予測.
 \newblock \emph{人工知能学会第二種研究会資料}, 2023\penalty0 (SWO-061):\penalty0 08--, 2023.
+
+\bibitem[Nishimura et~al.(2008)Nishimura, Kitamura, Sasajima, Williamson, Kinoshita, Hirao, Hattori, and Mizoguchi]{Nishimura2008}
+Satoshi Nishimura, Yoshinobu Kitamura, Munehiko Sasajima et al.
+\newblock Charm knowledge and its application to nursing guidelinesintegration.
+\newblock \emph{Journal of Advanced Computational Intelligence and Intelligent Informatics}, 27\penalty0 (4):\penalty0 697--701, 2008.
+
+\bibitem[悟史 et~al.(2015)悟史, 宗彦, 徳信, 明美, 弘枝, 明美, 兼敏, and 理一郎]{Nishimura2015}
+西村 悟史, 笹嶋 宗彦, 來村 徳信ら.
+\newblock 目的指向の看護手順学習に向けた複数観点からの知識閲覧システム charm pad と新人看護師研修への実践的活用.
+\newblock \emph{人工知能学会論文誌}, 30\penalty0 (1):\penalty0 22--36, 2015.
 
 \end{thebibliography}
