@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -92,5 +92,10 @@ Satoshi Nishimura, Yoshinobu Kitamura, Munehiko Sasajima et al.
 西村 悟史, 笹嶋 宗彦, 來村 徳信ら.
 \newblock 目的指向の看護手順学習に向けた複数観点からの知識閲覧システム charm pad と新人看護師研修への実践的活用.
 \newblock \emph{人工知能学会論文誌}, 30\penalty0 (1):\penalty0 22--36, 2015.
+
+\bibitem[晶太 et~al.(2023)晶太, めぐみ, 幸輝, 千秋, and 拓一]{Kato2023}
+加藤 晶太, 権野 めぐみ, 伊集院 幸輝ら.
+\newblock 日常業務内での"知識発現"の提案-事例収集と動画添削指導の支援システムの開発.
+\newblock \emph{情報処理学会研究報告(Web)}, IS-164\penalty0 (6):\penalty0 1--6, 2023.
 
 \end{thebibliography}
