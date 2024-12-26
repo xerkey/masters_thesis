@@ -2,5 +2,3 @@
 
 ./main.*
 !./main.tex
-
-./*.code-workspace
