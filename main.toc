@@ -1,0 +1,51 @@
+\contentsline {chapter}{\numberline {第1章}はじめに}{1}{}%
+\contentsline {chapter}{\numberline {第2章}関連研究}{4}{}%
+\contentsline {section}{\numberline {2.1}"知識"とその抽出に関する研究}{4}{}%
+\contentsline {section}{\numberline {2.2}指導現場に着目した研究}{7}{}%
+\contentsline {section}{\numberline {2.3}LLMを活用したナレッジマネジメントシステムの研究}{7}{}%
+\contentsline {chapter}{\numberline {第3章}提案手法}{9}{}%
+\contentsline {section}{\numberline {3.1}提案手法の概要}{9}{}%
+\contentsline {section}{\numberline {3.2}提案手法の仕組み}{10}{}%
+\contentsline {chapter}{\numberline {第4章}実験準備}{12}{}%
+\contentsline {section}{\numberline {4.1}プロセス知識の記述方法}{12}{}%
+\contentsline {section}{\numberline {4.2}指導現場のインタラクションを収集するシステムの開発}{14}{}%
+\contentsline {section}{\numberline {4.3}LLMを用いた知識抽出支援機能の開発}{14}{}%
+\contentsline {subsection}{\numberline {4.3.1}使用モデルの選定}{14}{}%
+\contentsline {subsubsection}{実験内容}{15}{}%
+\contentsline {subsubsection}{実験結果}{17}{}%
+\contentsline {subsection}{\numberline {4.3.2}知識抽出における利用可能性の検証}{19}{}%
+\contentsline {subsubsection}{実験内容}{21}{}%
+\contentsline {subsubsection}{実験結果}{25}{}%
+\contentsline {subsection}{\numberline {4.3.3}インターフェイスの実装}{28}{}%
+\contentsline {chapter}{\numberline {第5章}提案手法の有効性検証}{31}{}%
+\contentsline {section}{\numberline {5.1}検証の目的}{31}{}%
+\contentsline {section}{\numberline {5.2}実験方法}{31}{}%
+\contentsline {subsection}{\numberline {5.2.1}実験環境}{31}{}%
+\contentsline {subsection}{\numberline {5.2.2}実験手順}{32}{}%
+\contentsline {subsubsection}{プロセス知識の構築}{32}{}%
+\contentsline {subsubsection}{データ収集の基本手順}{32}{}%
+\contentsline {subsubsection}{プロセス知識の更新プロセス}{32}{}%
+\contentsline {subsubsection}{実験中の改善施策}{33}{}%
+\contentsline {subsection}{\numberline {5.2.3}評価方法}{33}{}%
+\contentsline {subsubsection}{指導現場における新しい知識の抽出可能性の評価}{34}{}%
+\contentsline {subsubsection}{LLMが出力した改良提案の適切性評価}{34}{}%
+\contentsline {subsubsection}{プロセス知識の改良結果の評価}{35}{}%
+\contentsline {subsubsection}{学習者による提案手法の受容性評価}{35}{}%
+\contentsline {section}{\numberline {5.3}評価結果}{36}{}%
+\contentsline {subsection}{\numberline {5.3.1}事前準備したプロセス知識の概要}{36}{}%
+\contentsline {subsection}{\numberline {5.3.2}指導現場における新しい知識の抽出可能性の評価}{36}{}%
+\contentsline {subsubsection}{定量的評価}{36}{}%
+\contentsline {subsubsection}{定性的評価}{37}{}%
+\contentsline {subsubsection}{知識抽出の場としての有効性}{37}{}%
+\contentsline {subsection}{\numberline {5.3.3}LLMが出力した改良提案の適切性評価}{38}{}%
+\contentsline {subsubsection}{定量的評価}{38}{}%
+\contentsline {subsubsection}{定性的評価}{39}{}%
+\contentsline {subsubsection}{知識抽出支援ツールとしての適切性}{41}{}%
+\contentsline {subsection}{\numberline {5.3.4}プロセス知識の改良結果の確認}{41}{}%
+\contentsline {subsubsection}{実験期間中の自発的な改良}{42}{}%
+\contentsline {subsubsection}{LLMの改良提案を受けての改良}{42}{}%
+\contentsline {subsubsection}{提案手法の知識抽出・共有の持続可能性に関する評価}{43}{}%
+\contentsline {subsection}{\numberline {5.3.5}学習者による提案手法の受容性評価}{44}{}%
+\contentsline {chapter}{\numberline {第6章}まとめ}{46}{}%
+\contentsline {chapter}{\numberline {第7章}まとめ}{47}{}%
+\contentsline {chapter}{\numberline {付録A}資料}{50}{}%
