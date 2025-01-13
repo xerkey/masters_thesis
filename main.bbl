@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -97,5 +97,15 @@ Satoshi Nishimura, Yoshinobu Kitamura, Munehiko Sasajima et al.
 加藤 晶太, 権野 めぐみ, 伊集院 幸輝ら.
 \newblock 日常業務内での"知識発現"の提案-事例収集と動画添削指導の支援システムの開発.
 \newblock \emph{情報処理学会研究報告(Web)}, IS-164\penalty0 (6):\penalty0 1--6, 2023.
+
+\bibitem[航 et~al.(2024)航, 葵, 小百合, 康行, 幸輝, 千秋, 努, and 拓一]{Sato2024}
+佐藤 航, 山本 葵, 熊谷 小百合ら.
+\newblock 身体動作の指導知識構造化方法の提案.
+\newblock \emph{情報処理学会論文誌}, 65\penalty0 (1):\penalty0 113--125, 2024.
+
+\bibitem[幸輝 et~al.(2022)幸輝, 真衣子, なみ, and 拓一]{Ijuin2022}
+伊集院 幸輝, 小早川 真衣子, 飯野 なみら.
+\newblock 作業手順内の目的を表出し構造化する方法の提案―介護現場での目的指向知識構造化.
+\newblock \emph{情報処理学会論文誌}, 63\penalty0 (1):\penalty0 104--115, 2022.
 
 \end{thebibliography}
