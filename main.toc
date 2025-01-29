@@ -44,9 +44,9 @@
 \contentsline {subsection}{\numberline {5.3.4}プロセス知識の改良結果の確認}{45}{}%
 \contentsline {subsubsection}{実験期間中の自発的な改良}{46}{}%
 \contentsline {subsubsection}{LLMの改良提案を受けての改良}{46}{}%
-\contentsline {subsubsection}{提案手法の知識抽出・共有の持続可能性に関する評価}{47}{}%
+\contentsline {subsubsection}{提案手法の実現可能性に関する評価}{47}{}%
 \contentsline {subsection}{\numberline {5.3.5}学習者による提案手法の受容性評価}{49}{}%
-\contentsline {section}{\numberline {5.4}提案手法の総合的な評価}{49}{}%
+\contentsline {section}{\numberline {5.4}提案手法の総合的な評価}{50}{}%
 \contentsline {chapter}{\numberline {第6章}考察}{51}{}%
 \contentsline {section}{\numberline {6.1}提案手法の本質的な特性と課題}{51}{}%
 \contentsline {subsection}{\numberline {6.1.1}指導現場における知識抽出の特性}{51}{}%
