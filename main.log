@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.uptex) (TeX Live 2024) (preloaded format=uplatex 2024.12.10)  30 JAN 2025 00:37
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.uptex) (TeX Live 2024) (preloaded format=uplatex 2024.12.10)  30 JAN 2025 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -702,10 +702,10 @@ LaTeX Warning: Reference `fig13, fig14, fig15' on page 25 undefined on input lin
 \pydata@fh@_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted=\write9
 \openout9 = `_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted'.
 
-runsystem(latexminted config  --timestamp 202501300037 FAD58DE7366495DB4650CFEFAC2FCD61)...executed safely (allowed).
+runsystem(latexminted config  --timestamp 202501302101 FAD58DE7366495DB4650CFEFAC2FCD61)...executed safely (allowed).
 
 (./_FAD58DE7366495DB4650CFEFAC2FCD61.config.minted)
-runsystem(latexminted cleanconfig  --timestamp 202501300037 FAD58DE7366495DB4650CFEFAC2FCD61)...executed safely (allowed).
+runsystem(latexminted cleanconfig  --timestamp 202501302101 FAD58DE7366495DB4650CFEFAC2FCD61)...executed safely (allowed).
 
  (./_minted/default.style.minted) (./_minted/8E4EFC8999C9E8901AC3AE6244D25E63.highlight.minted)
 
@@ -929,10 +929,10 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  24296 strings out of 473988
  529127 string characters out of 5734883
- 973880 words of memory out of 5000000
+ 973882 words of memory out of 5000000
  47034 multiletter control sequences out of 15000+600000
  571022 words of font info for 102 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  98i,14n,101p,2049b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (80 pages, 250920 bytes).
+Output written on main.dvi (80 pages, 250896 bytes).
